@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning JS & Solidity. I'm passionate about working in blockchain world!
+🌱 I’m currently learning JS & Solidity. I'm passionate about working on blockchain!
 
 <!--
 **peimanhp/peimanhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
