@@ -13,7 +13,7 @@ What truly drives me is the joy of seeing my work come alive on the screen. The 
 I firmly believe that learning is a lifelong process, especially in the fast-paced world of technology. Hence, I am always seeking opportunities to enhance my abilities and stay up-to-date with the latest trends and best practices in front-end development. Whether it's attending workshops, participating in online courses, or exploring new tools and frameworks, I am committed to continuous growth.
 
 ## Let's Connect!
-If you share the same passion for front-end development or have any exciting projects you'd like to collaborate on, feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/peiman-hosseini) or drop me an email at [peiman.hosseiny@gmail.com]. Let's create something amazing together!
+If you share the same passion for front-end development or have any exciting projects you'd like to collaborate on, feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/peiman-hosseini) or drop me an email at peiman.hosseiny@gmail.com. Let's create something amazing together!
 
 Thank you for visiting my GitHub page. Stay happy and keep coding! 😄
 
